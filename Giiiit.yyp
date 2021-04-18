@@ -1,9 +1,9 @@
 {
   "resources": [
-    {"id":{"name":"obj_sosi2","path":"objects/obj_sosi2/obj_sosi2.yy",},"order":1,},
-    {"id":{"name":"obj_sosi","path":"objects/obj_sosi/obj_sosi.yy",},"order":0,},
-    {"id":{"name":"spr_sosi","path":"sprites/spr_sosi/spr_sosi.yy",},"order":0,},
-    {"id":{"name":"obj_sam_sosi","path":"objects/obj_sam_sosi/obj_sam_sosi.yy",},"order":1,},
+    {"id":{"name":"spr_snake","path":"sprites/spr_snake/spr_snake.yy",},"order":0,},
+    {"id":{"name":"spr_cell","path":"sprites/spr_cell/spr_cell.yy",},"order":1,},
+    {"id":{"name":"spr_item","path":"sprites/spr_item/spr_item.yy",},"order":2,},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
